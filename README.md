@@ -5,27 +5,29 @@ This project aims to analyze a pizza sales dataset using **MySQL Workbench** to 
 
 ## 🔍 Dataset
 The dataset consists of multiple tables related to pizza sales, including **orders, pizzas, and categories**. These tables were joined and analyzed to extract meaningful insights.
-Dataset 1
+All the datasets requied for this project have been uploaded in the repository.
 
 ## 🏆 Key Objectives & SQL Queries
 ### 🔹 Basic Analysis
-1. **Total Number of Orders**: Counted the total orders placed.
-2. **Total Revenue**: Calculated the sum of all pizza sales.
-3. **Highest-Priced Pizza**: Identified the most expensive pizza in the dataset.
-4. **Most Commonly Ordered Pizza Size**: Determined the most frequently ordered pizza size.
-5. **Top 5 Most Ordered Pizza Types**: Retrieved the most popular pizzas along with their order quantities.
+1. **Retrieve the total number of orders placed**.
+2. **Calculate the total revenue generated from pizza sales.**
+3. **Identify the highest-priced pizza.**
+4. **Identify the most common pizza size ordered.**
+5. **List the top 5 most ordered pizza types along with their quantities.**
 
 ### 🔹 Intermediate Analysis
-6. **Total Quantity of Each Pizza Category Ordered**: Used joins to summarize total sales per category.
-7. **Distribution of Orders by Hour**: Extracted the ordering trend across different hours of the day.
-8. **Category-wise Distribution of Pizzas**: Grouped and categorized pizza sales data.
-9. **Average Number of Pizzas Ordered per Day**: Analyzed the ordering patterns over time.
-10. **Top 3 Most Ordered Pizza Types by Revenue**: Identified high-revenue pizza types.
+6.**Join the necessary tables to find the total quantity of each pizza category ordered.**
+7.**Determine the distribution of orders by hour of the day.**
+8.**Join relevant tables to find the category-wise distribution of pizzas.**
+9.**Group the orders by date and calculate the average number of pizzas ordered per day.**
+10.**Determine the top 3 most ordered pizza types based on revenue.**
+
 
 ### 🔹 Advanced Analysis
-11. **Percentage Contribution of Each Pizza Type to Total Revenue**: Calculated revenue share for each pizza.
-12. **Cumulative Revenue Over Time**: Tracked revenue growth across the dataset's timeline.
-13. **Top 3 Most Ordered Pizza Types by Revenue for Each Category**: Combined category-wise and revenue-based insights.
+11.**Calculate the percentage contribution of each pizza type to total revenue.**
+12.**Analyze the cumulative revenue generated over time.**
+13.**Determine the top 3 most ordered pizza types based on revenue for each pizza category.**
+
 
 ## ⚙️ Tools & Technologies Used
 - **MySQL Workbench** for writing and executing SQL queries.
@@ -37,11 +39,7 @@ Dataset 1
 ## 📁 Project Structure
 - **SQL Queries**: All SQL scripts are available in the repository.
 - **Dataset**: Provided for replication and further exploration.
-- **SQL Script**: 
 
-
----
-_This project is a great demonstration of SQL skills in sales analytics. If you found this useful, give it a ⭐ on GitHub!_ 🚀
 
 
 
