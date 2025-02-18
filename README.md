@@ -5,6 +5,7 @@ This project aims to analyze a pizza sales dataset using **MySQL Workbench** to 
 
 ## 🔍 Dataset
 The dataset consists of multiple tables related to pizza sales, including **orders, pizzas, and categories**. These tables were joined and analyzed to extract meaningful insights.
+Dataset 1
 
 ## 🏆 Key Objectives & SQL Queries
 ### 🔹 Basic Analysis
@@ -36,6 +37,7 @@ The dataset consists of multiple tables related to pizza sales, including **orde
 ## 📁 Project Structure
 - **SQL Queries**: All SQL scripts are available in the repository.
 - **Dataset**: Provided for replication and further exploration.
+- **SQL Script**: 
 
 
 ---
