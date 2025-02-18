@@ -38,7 +38,7 @@ All the datasets requied for this project have been uploaded in the repository.
 
 ## 📁 Project Structure
 - **SQL Queries**: All SQL scripts are available in the repository.
-- **Dataset**: Provided for replication and further exploration.
+- **Dataset**: All the datasets required for this project are provided in the reopsitory.
 
 
 
